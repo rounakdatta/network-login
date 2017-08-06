@@ -1,0 +1,7 @@
+C:\Users\246 Bangur Park\documents\visual studio 2010\Projects\NETWORK LOGIN\NETWORK LOGIN\bin\Debug\NETWORK LOGIN.exe
+C:\Users\246 Bangur Park\documents\visual studio 2010\Projects\NETWORK LOGIN\NETWORK LOGIN\bin\Debug\NETWORK LOGIN.pdb
+C:\Users\246 Bangur Park\documents\visual studio 2010\Projects\NETWORK LOGIN\NETWORK LOGIN\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\246 Bangur Park\documents\visual studio 2010\Projects\NETWORK LOGIN\NETWORK LOGIN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\246 Bangur Park\documents\visual studio 2010\Projects\NETWORK LOGIN\NETWORK LOGIN\obj\x86\Debug\NETWORK LOGIN.csproj.GenerateResource.Cache
+C:\Users\246 Bangur Park\documents\visual studio 2010\Projects\NETWORK LOGIN\NETWORK LOGIN\obj\x86\Debug\NETWORK LOGIN.exe
+C:\Users\246 Bangur Park\documents\visual studio 2010\Projects\NETWORK LOGIN\NETWORK LOGIN\obj\x86\Debug\NETWORK LOGIN.pdb
