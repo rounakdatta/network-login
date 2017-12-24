@@ -1,4 +1,4 @@
 # network-login
 Network Login interface
 
-![ScreenShot](screenshot.jpg)
+![ScreenShot](https://github.com/rounakdatta/network-login/tree/master/Python/screenshot.png)
